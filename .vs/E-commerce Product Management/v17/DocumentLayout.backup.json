@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\services\\linqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\linqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\controllers\\linqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:controllers\\linqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\migrations\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\migrations\\20241019023721_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\20241019023721_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\e-commerce product management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:e-commerce product management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\migrations\\20241019023633_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\20241019023633_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\migrations\\20241019023633_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\20241019023633_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\daryl\\source\\repos\\e-commerce product management\\migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqService.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\LinqService.cs",
+              "RelativeDocumentMoniker": "Services\\LinqService.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\LinqService.cs",
+              "RelativeToolTip": "Services\\LinqService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:18:58.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241019023721_Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\20241019023721_Seed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019023721_Seed.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\20241019023721_Seed.cs",
+              "RelativeToolTip": "Migrations\\20241019023721_Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:40:40.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:02:01.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:01:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "E-commerce Product Management.http",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\E-commerce Product Management.http",
+              "RelativeDocumentMoniker": "E-commerce Product Management.http",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\E-commerce Product Management.http",
+              "RelativeToolTip": "E-commerce Product Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-19T02:16:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T02:16:39.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinQController.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Controllers\\LinQController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LinQController.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Controllers\\LinQController.cs",
+              "RelativeToolTip": "Controllers\\LinQController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:17:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:17:16.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:52:21.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T03:10:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241019023633_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\20241019023633_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019023633_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\20241019023633_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241019023633_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:40:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\DataSeed.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataSeed.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\DataSeed.cs",
+              "RelativeToolTip": "Migrations\\DataSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:51:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:59:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:07:23.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "DTO\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:06:01.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:06:03.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:05:57.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241019023633_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\20241019023633_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019023633_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\20241019023633_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241019023633_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAKQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:41:43.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:59:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ECommerceContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\ECommerceContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ECommerceContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Migrations\\ECommerceContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ECommerceContextModelSnapshot.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:40:46.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Daryl\\source\\repos\\E-commerce Product Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:38:06.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

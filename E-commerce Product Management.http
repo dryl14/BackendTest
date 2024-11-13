@@ -1,0 +1,6 @@
+@E_commerce_Product_Management_HostAddress = http://localhost:5226
+
+GET {{E_commerce_Product_Management_HostAddress}}/GetProductsByCategory/
+Accept: application/json
+
+###

@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\linqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\linqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\ilinqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\ilinqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\controllers\\linqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:controllers\\linqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\migrations\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\migrations\\20241019023721_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:migrations\\20241019023721_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\e-commerce product management.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:e-commerce product management.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|c:\\users\\dbsardon\\source\\repos\\backenddev_case1_sardon\\e-commerce product management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58C32274-8A5C-4EF9-B1D7-EED3D0D8A3B7}|E-commerce Product Management.csproj|solutionrelative:e-commerce product management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:37:26.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:34:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinQController.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\LinQController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LinQController.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\LinQController.cs",
+              "RelativeToolTip": "Controllers\\LinQController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:03.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILinqService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\ILinqService.cs",
+              "RelativeDocumentMoniker": "Services\\ILinqService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\ILinqService.cs",
+              "RelativeToolTip": "Services\\ILinqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:48.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\LinqService.cs",
+              "RelativeDocumentMoniker": "Services\\LinqService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\LinqService.cs",
+              "RelativeToolTip": "Services\\LinqService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:57.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwE0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:37:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "DTO\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T03:31:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ECommerceContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Migrations\\ECommerceContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ECommerceContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Migrations\\ECommerceContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ECommerceContextModelSnapshot.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:14:17.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Migrations\\DataSeed.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataSeed.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Migrations\\DataSeed.cs",
+              "RelativeToolTip": "Migrations\\DataSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:13:44.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:32.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241019023721_Seed.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Migrations\\20241019023721_Seed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241019023721_Seed.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Migrations\\20241019023721_Seed.cs",
+              "RelativeToolTip": "Migrations\\20241019023721_Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:17:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:33:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:39.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:35.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:37:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:42.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:40.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:30:56.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:41.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:36:50.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:39:19.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:17.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:35:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "E-commerce Product Management",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\E-commerce Product Management.csproj",
+              "RelativeDocumentMoniker": "E-commerce Product Management.csproj",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\E-commerce Product Management.csproj",
+              "RelativeToolTip": "E-commerce Product Management.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T03:31:21.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "E-commerce Product Management.http",
+              "DocumentMoniker": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\E-commerce Product Management.http",
+              "RelativeDocumentMoniker": "E-commerce Product Management.http",
+              "ToolTip": "C:\\Users\\dbsardon\\source\\repos\\BackendDev_Case1_Sardon\\E-commerce Product Management.http",
+              "RelativeToolTip": "E-commerce Product Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-19T03:31:15.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
